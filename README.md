@@ -6,12 +6,12 @@ Steps To Establish Project :
 Step 1: Create Folder and open in code editor and type following command on terminal
 
 ```
-git clone https://github.com/naimish73/stock-prediction-bot.git
+git clone https://github.com/AryanMadhu/Stock-Prediction-Bot.git
 ```
 
 Step 2 :
 ```
-cd stock-prediction-bot
+cd Stock-Prediction-Bot
 ```
 - Create Virtual environment then install dependancies
 
